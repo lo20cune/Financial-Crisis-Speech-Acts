@@ -1,5 +1,5 @@
 ## Speech Act Annotation of Political Discourse - Financial Crisis
-This repository contains a corpus of political speeches on the topic of financial crisis, scraped from the website American Rhetoric. The corpus is accompanied by annotation guidelines for manual annotation based on speech act theory.
+This repository contains a corpus of political speeches on the topic of financial crisis, scraped from the website American Rhetoric. The corpus is accompanied by annotation guidelines and a CATMA-based tagset for manual annotation of speech acts.
 
 ## Introduction
 Political discourse plays a crucial role in shaping public perception, particularly during times of economic crisis. This corpus aims to provide researchers with a dataset of American political speeches that address the financial crisis, as well as a guideline for manually annotating speech acts in political discourse, allowing for analysis of the speech acts employed by politicians in such contexts.
