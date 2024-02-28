@@ -2,7 +2,7 @@
 This repository contains a corpus of political speeches on the topic of financial crisis, scraped from the website American Rhetoric. The corpus is accompanied by annotation guidelines for manual annotation based on speech act theory.
 
 ## Introduction
-Political discourse plays a crucial role in shaping public perception, particularly during times of economic crisis. This corpus aims to provide researchers with a dataset of American political speeches that address the financial crisis, allowing for analysis of the speech acts employed by politicians in such contexts.
+Political discourse plays a crucial role in shaping public perception, particularly during times of economic crisis. This corpus aims to provide researchers with a dataset of American political speeches that address the financial crisis, as well as a guideline for manually annotating speech acts in political discourse, allowing for analysis of the speech acts employed by politicians in such contexts.
 
 ## Corpus Description
 The corpus consists of speeches delivered by American politicians on the topic of the financial crisis. These speeches were scraped from the website American Rhetoric, which provides transcriptions of speeches by American politicians across various topics and time periods. The corpus comprises a total of 52 speeches.
