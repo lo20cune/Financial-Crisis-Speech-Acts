@@ -1,4 +1,4 @@
-## Political Speeches Corpus: Financial Crisis
+## Speech Act Annotation of Political Discourse - Financial Crisis
 This repository contains a corpus of political speeches on the topic of financial crisis, scraped from the website American Rhetoric. The corpus is accompanied by annotation guidelines for manual annotation based on speech act theory.
 
 ## Introduction
