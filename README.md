@@ -11,4 +11,4 @@ The corpus consists of speeches delivered by American politicians on the topic o
 The annotation guidelines included in this repository provide instructions for manually annotating the speeches based on speech act theory. The guidelines outline the speech act categories and subcategories to be annotated, along with examples and instructions for annotation.
 
 ## Web Scraping Code
-The web_scraping.ipynb Jupyter Notebook contains the Python code used for scraping the speeches from the American Rhetoric website. The code utilizes the BeautifulSoup library for web scraping and can be used to replicate the scraping process or adapt it for similar projects.
+The Clean_Scraping_American_Rhetoric.ipynb Jupyter Notebook contains the Python code used for scraping the speeches from the American Rhetoric website. The code utilizes the BeautifulSoup library for web scraping and can be used to replicate the scraping process or adapt it for similar projects.
